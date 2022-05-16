@@ -1,0 +1,10 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source/hashids",
+      "default": true
+    }
+  ],
+  "name": "hashids",
+  "namespace": ""
+}

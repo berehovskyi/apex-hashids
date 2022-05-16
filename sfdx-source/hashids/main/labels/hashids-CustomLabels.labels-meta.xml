@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ArgumentNegativeErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>The argument should be positive or zero, actual: {0}.</value>
+    </labels>
+    <labels>
+        <fullName>AlphabetMustContainAtLeastUniqueCharsErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>Alphabet must contain at least {0} unique characters.</value>
+    </labels>
+    <labels>
+        <fullName>AlphabetCannotContainSpacesErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>Alphabet cannot contain spaces.</value>
+    </labels>
+    <labels>
+        <fullName>AlphabetMustContainAtLeastUniqueCharsNotPresentErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>Alphabet must contain at least {0} unique characters that are also not present in.</value>
+    </labels>
+    <labels>
+        <fullName>NumberIsGreaterThenMaxLongErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>A number cannot be greater than {0}L.</value>
+    </labels>
+    <labels>
+        <fullName>OutOfRangeErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <categories>error</categories>
+        <shortDescription>Error message.</shortDescription>
+        <value>Out of range: {0}L.</value>
+    </labels>
+</CustomLabels>
